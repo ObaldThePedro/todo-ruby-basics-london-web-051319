@@ -10,7 +10,7 @@ def argue(default = "wrong!")
   phrase = "I'm right and you are " + default
 end
 
-def greeting(greeting = "Hi, there",name)
+def greeting(greeting = "Hi, there, ",name)
   
 end
 
